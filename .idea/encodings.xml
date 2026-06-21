@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/application-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/connectionHandler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/connectionHandler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protocol-line/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protocol-line/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protocol-spi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protocol-spi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/requestProcessor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/requestProcessor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-contracts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-contracts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-execution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-execution/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tcpLayerBlocking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tcpLayerBlocking/src/main/resources" charset="UTF-8" />
   </component>
 </project>

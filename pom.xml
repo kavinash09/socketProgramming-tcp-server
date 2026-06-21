@@ -4,9 +4,23 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.food.ordering.system</groupId>
+    <groupId>com.avinash.socket</groupId>
     <artifactId>SocketProgramming</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>server-contracts</module>
+        <module>protocol-spi</module>
+        <module>protocol-line</module>
+        <module>tcpLayerBlocking</module>
+<!--        <module>connectionHandler</module>-->
+<!--        <module>requestProcessor</module>-->
+        <module>application-core</module>
+        <module>application-server</module>
+        <module>server-execution</module>
+
+
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
